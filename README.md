@@ -14,4 +14,4 @@ The code is Hidden for security purpose.
 
 Updating soon...
 
-Till Now Download the latest apk file [Download maqsoftware.apk](https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/maqsoftware.apk)
+Till Now Download the latest apk file [Download maqsoftware.apk](https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/app-release.apk)

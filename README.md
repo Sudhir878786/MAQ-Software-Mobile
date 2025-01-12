@@ -10,6 +10,7 @@
 This Android application provides **MAQ employees** with instant access to their `My Space` information, directly from their mobile devices. View your attendance, training courses, reports, and other essential data quickly and easily.  `Your Space at your hand.`
 
 
+The code is Hidden for security purpose.
 
 Updating soon...
 

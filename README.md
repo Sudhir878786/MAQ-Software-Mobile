@@ -9,6 +9,16 @@
 ## Overview
 This Android application provides **MAQ employees** with instant access to their `My Space` information, directly from their mobile devices. View your attendance, training courses, reports, and other essential data quickly and easily.  `Your Space at your hand.`
 
+### App Screenshots
+
+<p align="center">
+  <img src="https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/1.png?raw=true" width="20%" />
+  <img src="https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/3.png?raw=true" width="20%" />
+  <img src="https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/4.png?raw=true" width="20%" />
+  <img src="https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/5.png?raw=true" width="20%" />
+</p>
+
+
 ## APK Security and Verification
 This APK has been **certified** and is **safe to install** on any device according to **trusted security providers** like **VirusTotal** and **MetaDefender**. These services scan the APK using multiple antivirus engines to ensure that it is free of malware and harmful content.
 

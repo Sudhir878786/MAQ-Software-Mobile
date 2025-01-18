@@ -22,5 +22,5 @@ This APK has been **certified** and is **safe to install** on any device accordi
 
 Updating soon...
 
-Till Now Download the latest apk file [![Download APK](https://img.shields.io/badge/Download%20APK-blue?style=flat&logo=android)](https://raw.githubusercontent.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/app/release/app-release.apk)
+Till Now Download the latest apk file [![Download APK](https://img.shields.io/badge/Download%20APK-blue?style=flat&logo=android)](https://raw.githubusercontent.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/app-release.apk)
 

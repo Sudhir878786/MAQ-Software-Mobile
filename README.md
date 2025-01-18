@@ -20,6 +20,10 @@ This APK has been **certified** and is **safe to install** on any device accordi
 
     - **MetaDefender Scan Report**: [![MetaDefender Scan Result](https://img.shields.io/badge/Scan%20Report-orange?style=flat&logo=shield)](https://metadefender.com/results/file/bzI1MDExOEdmZHdVd0NyVkxpTXlzckJpc1I)
 
+### Android info
+
+![Android info](https://github.com/Sudhir878786/MAQ-Software-Mobile/blob/Sudhir/Android%20Info.png)
+
 Updating soon...
 
 Till Now Download the latest apk file [![Download maqsoftware.apk](https://img.shields.io/badge/Download%20APK-blue?style=flat&logo=android)](https://raw.githubusercontent.com/Sudhir878786/MAQ-Software-Mobile/Sudhir/app-release.apk)
